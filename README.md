@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software developer with experience in iOS development and currently focused on frontend development using Angular. I’m passionate about building user-friendly, responsive applications. When I'm not coding, you can find me cycling or paddling with my dragon boat team. I'm currently working at Intact, where I continue to grow my skills and contribute to innovative projects.
+I'm a software developer with experience in iOS development and currently focused on frontend development using Angular. I’m passionate about building user-friendly, responsive applications. When I'm not coding, you can find me cycling or paddling with my dragon boat team. I'm currently interning at Intact, where I continue to grow my skills in frontend development and contribute to innovative projects.
 
 
 ## 🌐 Socials:
